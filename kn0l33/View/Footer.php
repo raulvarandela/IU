@@ -17,7 +17,6 @@
 	 	<div id="div_centro4"> </div>
 		<div id="div_de4r"><label id='Página creada el 28/10/2019'><?php echo $strings['Página creada el 28/10/2019'];?></label></div>
 	</div>
-	<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src='../View/img/cc.png' /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional</a>.
 </footer>
 </body>
 </html>
